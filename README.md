@@ -35,13 +35,31 @@ Experienced **Salesforce Developer & Analyst** specializing in **Salesforce deve
 
 ---
 
-## 📌 Featured Projects
+## 💼 PROFESSIONAL EXPERIENCE
 
-🔹 **[Salesforce Lightning Dashboard](#)** – Designed dashboards & reports for business insights.  
-🔹 **[Custom Object Manager](#)** – Developed automation for object & field management in Salesforce.  
-🔹 **[SOQL Query Optimizer](#)** – Optimized queries to efficiently handle large datasets.  
+### Salesforce Developer & Production Support Engineer | HealthCare Domain | Accenture, Pune  
+**March 2023 – Present**  
+- Engaged with stakeholders to gather, refine, and document business requirements.
+- Designed and developed custom objects, fields, validation rules, and flows.
+- Created custom reports and dashboards to provide actionable business insights.
+- Configured profiles, roles, permission sets, and sharing rules to maintain security.
+- Implemented Apex classes and triggers to handle complex business logic and automation.
+- Executed data migration using Data Loader and leveraged SOQL & SOSL for data queries.
+- Monitored and responded to user/client inquiries on support distribution lists.
+- Distributed tickets after primary analysis to Development, Production Support, Data Management, and User Onboarding teams.
+- Created JIRA tickets and communicated priorities, monitoring request statuses and providing updates.
+- Assisted in daily status calls, resolving issues and supporting production data analysis.
+- Managed user personas, system cleanliness, and documentation for recurring issues.
+- Analyzed and resolved **300+ incidents, 600+ user access issues, and 50+ production defects**.
 
-👉 _More projects coming soon!_
+### Salesforce Developer & Tester | Communication Domain | Accenture, Bengaluru  
+**August 2021 – February 2023**  
+- Developed custom objects, fields, validation rules, and workflows to meet business needs.
+- Optimized flows and process builders to enhance automation and reduce manual effort.
+- Configured profiles, roles, and sharing rules to ensure secure data access.
+- Conducted comprehensive functional and regression testing for Salesforce applications.
+- Created test cases using Agile Designer and executed test scenarios and scripts to maintain application stability.
+- Documented and reported defects, collaborating closely with developers for timely issue resolution.
 
 ---
 
@@ -57,14 +75,6 @@ Experienced **Salesforce Developer & Analyst** specializing in **Salesforce deve
 - 🏅 **Skill Champion** – Accenture India Rewards & Recognition.
 - 🏅 **Shining Star Award** – Awarded for consistently delivering quality work.
 - 🏅 **Extra Miler & Special Mentions** – Exceptional contributions in development & support.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naaz-salesforce&theme=tokyonight&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naaz-salesforce&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naaz-salesforce&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
