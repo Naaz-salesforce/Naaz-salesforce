@@ -70,6 +70,30 @@ Experienced **Salesforce Developer & Analyst** specializing in **Salesforce deve
 
 ---
 
+🚀 My GitHub Projects
+📌 Automated Case Assignment
+🔹 Description: Developed an automated case assignment system in Salesforce using Apex Triggers & Flows.
+🔹 Tech Used: Apex, Process Builder, Case Assignment Rules
+🔹 Features: ✔ Automatically assigns cases to the right support team
+✔ Reduces manual intervention with intelligent case routing
+✔ Uses round-robin assignment for load balancing
+
+📌 Salesforce Role-Based Access Management
+🔹 Description: A dynamic role and permission management system for Salesforce.
+🔹 Tech Used: Profiles, Permission Sets, Sharing Rules, SOQL
+🔹 Features: ✔ Assigns permissions dynamically based on user type
+✔ Enhances security with role-based access control
+✔ Automated updates when roles change
+
+📌 Gist: Apex Helper Methods
+🔹 Description: A collection of reusable Apex helper methods for Salesforce development.
+🔹 Tech Used: Apex, SOQL, Custom Metadata
+🔹 Features: ✔ Optimized Apex utilities for faster development
+✔ Includes data validation & SOQL query functions
+✔ Reduces redundant code & improves maintainability
+
+---
+
 ## 🏆 Awards & Recognition
 - 🏅 **Sprint Champion** – Recognized by project leads.
 - 🏅 **Skill Champion** – Accenture India Rewards & Recognition.
