@@ -70,27 +70,31 @@ Experienced **Salesforce Developer & Analyst** specializing in **Salesforce deve
 
 ---
 
-🚀 My GitHub Projects
-📌 Automated Case Assignment
-🔹 Description: Developed an automated case assignment system in Salesforce using Apex Triggers & Flows.
-🔹 Tech Used: Apex, Process Builder, Case Assignment Rules
-🔹 Features: ✔ Automatically assigns cases to the right support team
-✔ Reduces manual intervention with intelligent case routing
-✔ Uses round-robin assignment for load balancing
+### 🚀 My GitHub Projects
 
-📌 Salesforce Role-Based Access Management
-🔹 Description: A dynamic role and permission management system for Salesforce.
-🔹 Tech Used: Profiles, Permission Sets, Sharing Rules, SOQL
-🔹 Features: ✔ Assigns permissions dynamically based on user type
-✔ Enhances security with role-based access control
-✔ Automated updates when roles change
+#### 📌 [Automated Case Assignment](https://github.com/Naaz-salesforce/Automated-Case-Assignment)
+🔹 **Description:** Developed an automated case assignment system in Salesforce using Apex Triggers & Flows.  
+🔹 **Tech Used:** Apex, Process Builder, Case Assignment Rules  
+🔹 **Features:**
+✔ Automatically assigns cases to the right support team  
+✔ Reduces manual intervention with intelligent case routing  
+✔ Uses round-robin assignment for load balancing  
 
-📌 Gist: Apex Helper Methods
-🔹 Description: A collection of reusable Apex helper methods for Salesforce development.
-🔹 Tech Used: Apex, SOQL, Custom Metadata
-🔹 Features: ✔ Optimized Apex utilities for faster development
-✔ Includes data validation & SOQL query functions
-✔ Reduces redundant code & improves maintainability
+#### 📌 [Salesforce Role-Based Access Management](https://github.com/Naaz-salesforce/Salesforce-Role-Access-Management)
+🔹 **Description:** A dynamic role and permission management system for Salesforce.  
+🔹 **Tech Used:** Profiles, Permission Sets, Sharing Rules, SOQL  
+🔹 **Features:**
+✔ Assigns permissions dynamically based on user type  
+✔ Enhances security with role-based access control  
+✔ Automated updates when roles change  
+
+#### 📌 [Apex Helper Methods (GitHub Gist)](https://gist.github.com/Naaz-salesforce/dffdd5170a8f2739b826f070562a41c3)
+🔹 **Description:** A collection of reusable **Apex helper methods** for Salesforce development.  
+🔹 **Tech Used:** Apex, SOQL, Custom Metadata  
+🔹 **Features:**
+✔ Optimized Apex utilities for faster development  
+✔ Includes data validation & SOQL query functions  
+✔ Reduces redundant code & improves maintainability  
 
 ---
 
