@@ -1,14 +1,14 @@
 # Hi there, I'm Naziya D. Makandar! 👋
 
-🚀 **Salesforce Development Sr. Analyst | 3.7+ Years Experience | Accenture**  
+🚀 **Salesforce Development Sr. Analyst | 3.10 Years Experience | Accenture**  
 Experienced **Salesforce Developer & Analyst** specializing in **Salesforce development, administration, and production support**. Adept at **Apex programming, automation, and data migration**, delivering scalable solutions that enhance business processes.
 
 ---
 
 ## 🔥 About Me
 - 💼 **Currently:** Working as a Salesforce Development Sr. Analyst at Accenture.
-- 🏆 **Experience:** 3.7+ years in Salesforce development, administration, and production support.
-- 💡 **Key Skills:** Apex, Triggers, SOQL, Process Builder, Flows, Workflow Rules, Approval Processes.
+- 🏆 **Experience:** 3.10 years in Salesforce development, administration, and production support.
+- 💡 **Key Skills:** Apex, Triggers, LWC, SOQL, Process Builder, Flows, Workflow Rules, Approval Processes.
 - 📊 **Worked on:** Custom Objects, Validation Rules, Dashboards, Data Migration, User Management, Security & Access.
 - 🎯 **Problem Solver:** Resolved 300+ incidents, 600+ user access issues, and 50+ production defects.
 - 🔍 **Learning:** Exploring Salesforce DevOps & AI-powered CRM solutions.
